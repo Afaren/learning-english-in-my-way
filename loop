@@ -1,0 +1,11 @@
+#!/bin/bash
+
+voicers=$1
+english_text=$2
+
+cat $english_text
+
+while IFS='' read -r voicer || [[ -n "$line" ]]; do
+    echo "$voicer"
+    say -v "$voicer" -f $english_text
+done < $voicers

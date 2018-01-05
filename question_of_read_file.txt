@@ -1,0 +1,8 @@
+I want to read it line-by-line, and for each line I want to assign a .txt line value to a variable. Supposing my variable is $name, the flow is:
+
+Read first line from file
+Assign $name = "Marco"
+Do some tasks with $name
+Read second line from file
+Assign $name = "Paolo"
+

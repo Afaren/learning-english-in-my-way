@@ -1,0 +1,2 @@
+#!/bin/bash
+while true; do say "$1"; done
