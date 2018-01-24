@@ -1,12 +1,12 @@
 #!/bin/bash
 
 voicers=$1
-english_text=$2
+english_sentences_txt=$2
 
-while read -r line || [[ -n "$line" ]]; do
-    echo "$line"
+while read -r sentence || [[ -n "sentence" ]]; do
+    echo "$sentence"
     while IFS='' read -r voicer; do
         echo "    -> $voicer"
-        say -v "$voicer"  $line
+        say -v "$voicer"  $sentence
     done < $voicers
-done < $english_text
+done < $english_sentences_txt
