@@ -13,9 +13,14 @@
 
 **** 安装语音
 
-[[file:images/Screen Shot 2018-01-24 at 22.03.39_2018-01-24_22-07-50.png][打开系统配置，查找 speech]]
-[[file:images/Screen Shot 2018-01-24 at 22.04.24_2018-01-24_22-07-50.png][点击 System Voice，打开 Customize]]
-[[file:images/Screen Shot 2018-01-24 at 22.04.56_2018-01-24_22-07-50.png][下载需要的语音]]
+***** 打开系统配置，查找 speech
+[[file:images/Screen Shot 2018-01-24 at 22.03.39_2018-01-24_22-07-50.png]]
+
+***** 点击 System Voice，打开 Customize
+[[file:images/Screen Shot 2018-01-24 at 22.04.24_2018-01-24_22-07-50.png]]
+
+***** 下载需要的语音
+[[file:images/Screen Shot 2018-01-24 at 22.04.56_2018-01-24_22-07-50.png]]
 
 **** loop 脚本
 =loop= 脚本，读取 *播音员列表* 跟 *九百句简单口语*，以不同语音迭代播放同一句话，直到播完所有的句子。
