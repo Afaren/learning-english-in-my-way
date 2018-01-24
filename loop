@@ -3,9 +3,10 @@
 voicers=$1
 english_text=$2
 
-cat $english_text
-
-while IFS='' read -r voicer || [[ -n "$line" ]]; do
-    echo "$voicer"
-    say -v "$voicer" -f $english_text
-done < $voicers
+while read -r line || [[ -n "$line" ]]; do
+    echo "$line"
+    while IFS='' read -r voicer; do
+        echo "$voicer"
+        say -v "$voicer"  $line
+    done < $voicers
+done < $english_text
