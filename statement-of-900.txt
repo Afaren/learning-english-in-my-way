@@ -1,20 +1,25 @@
- Hello! / Hi! 你好！
+ Hello! 
+ Hi! 
 
- Good morning / afternoon / evening! 早晨（下午/晚上）好！
+ Good morning 
+ Good afternoon 
+ Good evening! 
 
  I'm Kathy King
 
- Are you Peter Smith? 你是彼得·史密斯吗？
+ Are you Peter Smith? ·
 
  Yes, I am
 
- How are you? 你好吗？
+ How are you? 
 
  Fine, thanks
 
  I'm fine, too
 
- How is Amy / your wife / your husband? 爱米好吗？/你妻子好吗？/你丈夫好吗？
+ How is Amy 
+ How is your wife 
+ How is your husband? 
 
  She is very well, thank you
 
@@ -28,7 +33,7 @@
 
  I have to go now
 
- May I come in? 我能进来吗？
+ May I come in? 
 
  Come in, please
 
@@ -40,65 +45,65 @@
 
  I'll call the roll before class
 
- Here! 到！
+ Here! 
 
- Has everybody got a sheet? 每个人都拿到材料了吗？
+ Has everybody got a sheet? 
 
- Any different opinion? 有不同意见吗？
+ Any different opinion? 
 
- Are you with me? 你们跟上我讲的了吗？
+ Are you with me? 
 
- Have I made myself clear? 我讲明白了吗？
+ Have I made myself clear? 
 
- Could you say it again? 你能再说一遍吗？
+ Could you say it again? 
 
- Any questions? 有什么问题吗？
+ Any questions? 
 
  That's all for today
 
  Please turn in your paper before leaving
 
- What's this? 这是什么？
+ What's this? 
 
  It's a pen
 
- Is this your handbag? 这是你的手提包吗？
+ Is this your handbag? 
 
  No, it isn't
 
- Whose pen is this? 这是谁的笔？
+ Whose pen is this? 
 
  It's Kate's
 
- Is that a car? 那是一辆小汽车吗？
+ Is that a car? 
 
  No, it isn't
 
- What do you call this in English? 这个用英语怎么说？
+ What do you call this in English? 
 
- What is the color of your new book? 你的新书是什么颜色的？
+ What is the color of your new book? 
 
- How big is your house? 你的房子有多大？
+ How big is your house? 
 
- How long is the street? 这条街有多长？
+ How long is the street? 
 
- What's the name of the cat? 这猫叫什么名字？
+ What's the name of the cat? 
 
- Where's the company? 那个公司在哪儿？
+ Where's the company? 
 
- Which is the right size? 哪个尺码是对的？
+ Which is the right size? 
 
- What's this? 这是什么？
+ What's this? 
 
  It's an air-conditioner
 
- Is this yours? 这是你的吗？
+ Is this yours? 
 
  Yes, it's mine
 
- Where are my glasses? 我的眼镜在哪儿？
+ Where are my glasses? 
 
- Do you know where I've put my glasses? 你知道我把眼镜搁哪儿了吗？
+ Do you know where I've put my glasses? 
 
  Over there
 
@@ -108,63 +113,63 @@
 
  No
 
- Which is your bag? 哪个是你的包？
+ Which is your bag? 
 
  The bigger one
 
  The one on your right
 
- Are these books all yours? 这些书全是你的吗？
+ Are these books all yours? 
 
  Some of them are mine
 
- Who are you? 你是谁？
+ Who are you? 
 
  I'm Jim
 
- Who is the guy over there? 那边那个人是谁？
+ Who is the guy over there? 
 
  He's Bob
 
- Is that girl a student? 那个女孩是学生吗？
+ Is that girl a student? 
 
  No, she isn't
 
- What do you do? 你是做什么的？
+ What do you do? 
 
  I'm a farmer
 
- What does he do? 他是干什么的？
+ What does he do? 
 
  He's a manager
 
- She must be a model, isn't? 她一定是个模特，不是吗？
+ She must be a model, isn't? 
 
  I really don't known
 
  I have no idea about it
 
- Can she be a driver? 她可能是个司机吗？
+ Can she be a driver? 
 
  Yes, I think so
 
- What's your name? 你叫什么名字？
+ What's your name? 
 
- May I have your name? 能告诉我你的名字吗？
+ May I have your name? 
 
  My name is Thomas
 
  Just call me Tom
 
- What's your family name? 你姓什么？
+ What's your family name? 
 
  My family name is Ayneswonth
 
- How do you spell it? 怎么拼？
+ How do you spell it? 
 
- Who is the lady in white? 穿白衣服的那位小姐是谁？
+ Who is the lady in white? 
 
- Could you introduce me to her? 你能把我介绍给她吗？
+ Could you introduce me to her? 
 
  Rose, let me introduce my friend to you
 
@@ -176,57 +181,57 @@
 
  Let me introduce myself
 
- How do you do? 你好！
+ How do you do? 
 
- What day is it today? 今天星期几？
+ What day is it today? 
 
  It's Monday today
 
- What's the date today? 今天是几号？
+ What's the date today? 
 
  It's January the 15th, 1999
 
- What month is this? 现在是几月？
+ What month is this? 
 
  It's December
 
- What year is this? 今年是哪一年？
+ What year is this? 
 
  It's the year of 1999
 
- What will you do during this weekend? 这周末你干什么？
+ What will you do during this weekend? 
 
- Does the shop open at 9 am on weekdays? 这家店平日是早上9点开门吗？
+ Does the shop open at 9 am on weekdays? 9
 
  It opens at 8 am on weekdays, but at 9 at weekends
 
- What will you do the day after on next? 后天你干什么？
+ What will you do the day after on next? 
 
- What did you do the week before last? 上上星期你干了什么？
+ What did you do the week before last? 
 
  I'll work for the next 5 days
 
  It's been 5 years since I last saw you
 
- Do you have a computer? 你有计算机吗？
+ Do you have a computer? 
 
  Yes, I do
 
- He has that book, doesn't he? 他有那本书，是吗？
+ He has that book, doesn't he? 
 
  No, he doesn't
 
- Do you have any brothers or sisters? 你有兄弟或姐妹吗？
+ Do you have any brothers or sisters? 
 
  No, I'm a single son
 
- Does your computer have a modem? 你的电脑有调制解调器吗？
+ Does your computer have a modem? 
 
- Do you have shampoo here? 这儿有香波卖吗？
+ Do you have shampoo here? 
 
- What a beautiful garden you have! 你的花园真漂亮。
+ What a beautiful garden you have! 
 
- Any tickets left? 有剩票吗？
+ Any tickets left? 
 
  Do you have glue? I need some here
 
@@ -234,11 +239,11 @@
 
  If you have more, please give me some
 
- Do you have my pencil? 你拿了我的铅笔吗？
+ Do you have my pencil? 
 
  Yes, I have your eraser, too
 
- What time is it now? 现在几点？
+ What time is it now? 
 
  It's two o'clock
 
@@ -256,43 +261,43 @@
 
  My watch is two minutes fast
 
- What's the time by your watch? 你的表几点了？
+ What's the time by your watch? 
 
  We must arrive there on time
 
  There are only two minutes left
 
- Can you finish your work ahead of time? 你能提前完成工作吗？
+ Can you finish your work ahead of time? 
 
  The flight is delayed
 
  The meeting is put off
 
- What day is today? 今天星期几？
+ What day is today? 
 
  Today is Monday
 
- What's the date today? 今天几号？
+ What's the date today? 
 
  Today is May 21st
 
- When were you born? 你什么时候出生的？
+ When were you born? 
 
  I was born on September 1st, 1976
 
- What time? 什么时候？
+ What time? 
 
  You name the time
 
  I'll meet you tomorrow
 
- Do you know the exact date? 你知道确切日期吗？
+ Do you know the exact date? 
 
  Please check the date
 
- What were you doing this time last year? 去年这时候你在干什么？
+ What were you doing this time last year? 
 
- How long will the sale last? 折价销售多久？
+ How long will the sale last? 
 
  Only three days
 
@@ -300,7 +305,7 @@
 
  Hello
 
- Do you have an appointment? 你有预约吗？
+ Do you have an appointment? 
 
  Sorry, I don't
 
@@ -310,9 +315,9 @@
 
  He's on the phone
 
- Would you wait here for a minute? 您能在这里等一下吗？
+ Would you wait here for a minute? 
 
- Would you like something to drink? 您想喝点什么吗？
+ Would you like something to drink? 
 
  Tea, please
 
@@ -322,17 +327,17 @@
 
  Nice to see you, my old friend
 
- How have you been these years? 这些年你怎么样？
+ How have you been these years? 
 
  You've changed little
 
- Do you still remember that Christmas? 你仍记得那个圣诞节吗？
+ Do you still remember that Christmas? 
 
- Do you speak English? 你会说英语吗？
+ Do you speak English? 
 
  Yes, a little
 
- How long have you studied English? 你学英语多久了？
+ How long have you studied English? 
 
  He speaks English fluently
 
@@ -340,7 +345,7 @@
 
  You speak English pretty well
 
- Are you a native speaker of English? 你的母语是英语吗？
+ Are you a native speaker of English? 
 
  My native language is Chinese
 
@@ -352,43 +357,43 @@
 
  I'm always confused with "s" and "th"
 
- Can you write in English? 你能用英文写文章吗？
+ Can you write in English? 
 
  Your pronunciation is excellent
 
- How can I improve my spoken English? 我该怎样才能提高口语水平？
+ How can I improve my spoken English? 
 
- What are you doing? 你在干什么？
+ What are you doing? 
 
  I'm reading a book
 
  I'm cooking
 
- Are you watching TV now? 你在看电视吗？
+ Are you watching TV now? 
 
  Yes, I'm watching Channel 5
 
  No, I'm listening to the radio
 
- Where are you going? 你去哪儿？
+ Where are you going? 
 
  I'm going to work
 
- Who are you writing to? 你在给谁写信？
+ Who are you writing to? 
 
  I'm writing to an old friend
 
- What will you do this weekend? 这周末你将干什么？
+ What will you do this weekend? 
 
  I'll go to a concert
 
  I'll go on an outing with some friends
 
- Do you like traveling? 你喜欢郊游吗？
+ Do you like traveling? 
 
- Yes, I like it a great deal/it very much
+ Yes, I like it a great deal.
 
- How old are you? 你多大了？
+ How old are you? 
 
  I'm twenty-two (years old)
 
@@ -418,37 +423,37 @@
 
  He's still a boy after all
 
- When do you get up everyday? 每天你几点起床？
+ When do you get up everyday? 
 
  I usually get up at 8 o'clock
 
- Where do you have your lunch? 你在哪儿吃午饭？
+ Where do you have your lunch? 
 
  I have my lunch in a snack bar nearby
 
- What did you have for lunch? 你中午吃些什么？
+ What did you have for lunch? 
 
- I had a hamburger and a fried chicken leg? 我吃一个汉堡包，一个炸鸡腿。
+ I had a hamburger and a fried chicken leg? 
 
- What time do you start work? 你什么时候开始工作？
+ What time do you start work? 
 
  I start work at 8 o'clock
 
- What do you do at work? 你上班干些什么？
+ What do you do at work? 
 
  I answer telephones and do some typing
 
- What time do you finish your work? 你什么时候下班？
+ What time do you finish your work? 
 
  At 6 o'clock sharp
 
- What do you do in your spare time? 闲暇时，你干些什么？
+ What do you do in your spare time? 
 
  I like listening to pop music
 
  I like playing football
 
- When did you get up yesterday morning? 你昨天早上几点起床？
+ When did you get up yesterday morning? 
 
  At about seven
 
@@ -478,7 +483,7 @@
 
  I slept soundly all night
 
- Hi, Joe, is it really you? 乔，你好，真是你吗？
+ Hi, Joe, is it really you? 
 
  Hi, Ann
 
@@ -498,7 +503,7 @@
 
  That's all right
 
- Have you seen Kate lately? 最近你看见凯特了吗？
+ Have you seen Kate lately? 
 
  No, I have no contact with her
 
@@ -512,7 +517,7 @@
 
  He used to live in my neighborhood
 
- Did you use to go fishing with friends? 过去你常和朋友钓鱼吗？
+ Did you use to go fishing with friends? 
 
  We have known each other for 6 years
 
@@ -538,23 +543,23 @@
 
  After I had finished my paper, I put it in the drawer
 
- Hi, Jack, where do you live now? 你好，杰克，你现在住哪儿？
+ Hi, Jack, where do you live now? 
 
  I live at 203 Curzon Street
 
- Curzon Street? Isn't Mary living there? 可胜街？玛丽不是也住那儿吗？
+ Curzon Street? Isn't Mary living there? 
 
  Yes, she lives just across the street
 
- How long have you stayed there? 你在那儿住多久了？
+ How long have you stayed there? 
 
  Just a few months
 
- How about Mary? How long has she lived there? 玛丽怎么样？她在那儿住多
+ How about Mary? How long has she lived there? 
 
  She's been living there since her birth
 
- Will you stay there for long? 你会在那儿待很长时间吗？
+ Will you stay there for long? 
 
  No, I'll move to Hollywood next month
 
@@ -568,43 +573,43 @@
 
  I'm sure we'll have a good time
 
- Where are you going? 你去哪儿？
+ Where are you going? 
 
- Where did you go for dinner yesterday? 你们昨天去哪儿吃的饭？
+ Where did you go for dinner yesterday? 
 
- When will he come to see you? 他什么时候来看你？
+ When will he come to see you? 
 
- When did you buy the car? 你什么时候买的车？
+ When did you buy the car? 
 
- Who told you? 谁告诉你的？
+ Who told you? 
 
- Who will accompany you to the airport? 谁将陪你去机场？
+ Who will accompany you to the airport? 
 
- Why don't you agree? 你为什么不同意？
+ Why don't you agree? 
 
- Why not go out for a walk? 干吗不出去散步？
+ Why not go out for a walk? 
 
- How did you doing spend your holiday? 你假期怎么过的？这句感觉非常别扭
+ How did you doing spend your holiday? 
 
- How are you doing these days? 这些日子你怎么样？
+ How are you doing these days? 
 
- What did he say in the letter? 他在信里说什么了？
+ What did he say in the letter? 
 
- What are you going to do with the books? 你打算拿这些书怎么办？
+ What are you going to do with the books? 
 
- What were you doing when I called? 我打电话给你时你在干吗？
+ What were you doing when I called? 
 
  I was about to leave
 
- Can you guess what I was doing this morning? 你能猜到今天上午我在做什么吗？
+ Can you guess what I was doing this morning? 
 
- What's the height of the building? 这座楼有多高？
+ What's the height of the building? 
 
- How much does the elephant weight? 这个大象有多重？
+ How much does the elephant weight? 
 
- What's the color of your new dress? 你的新衣服是什么颜色的？
+ What's the color of your new dress? 
 
- What's the size of your shoes? 你的鞋多大尺寸？
+ What's the size of your shoes? 
 
  My brother is twice as tall as your sister
 
@@ -612,11 +617,11 @@
 
  This river is one third as long as that river
 
- What's the shape of your balloon? 你的气球是什么形状？
+ What's the shape of your balloon? 
 
- How wide is this bridge? 这座桥有多宽？
+ How wide is this bridge? 
 
- How thick is the ice here? 这儿的冰有多厚？
+ How thick is the ice here? 
 
  This metal is harder than that one
 
@@ -624,27 +629,27 @@
 
  Kate is smarter than I
 
- How long do you watch TV every day? 你每天看多长时间电视？
+ How long do you watch TV every day? 
 
- How often do you go swimming? 你多久去游一次泳？
+ How often do you go swimming? 
 
- Would you please open the door for me? 请你帮忙开个门好吗？
+ Would you please open the door for me? 
 
- May I ask you a question? 我能问你个问题吗？
+ May I ask you a question? 
 
  Please give me a hand
 
- Could you do me a favor? 能请你帮个忙吗？
+ Could you do me a favor? 
 
- Would you help me remove the refrigerator? 能帮忙移一下冰箱吗？
+ Would you help me remove the refrigerator? 
 
  Get me my coat, please
 
- Make me a cup of coffee, will you? 给我冲杯咖啡，好吗？
+ Make me a cup of coffee, will you? 
 
  Call me tomorrow if you have time
 
- Could you tell me where I can find these books? 您能告诉我在哪儿能找到
+ Could you tell me where I can find these books? 
 
  Certainly
 
@@ -654,7 +659,7 @@
 
  I'm glad to, but I'm afraid I don't have the time
 
- Would you mind closing the window for me? 能帮我关一下窗户吗？（你介意
+ Would you mind closing the window for me? 
 
  Not at all
 
@@ -662,7 +667,7 @@
 
  It's just around the corner
 
- Excuse me, how can I get to the bus station? 对不起，汽车站怎么走？
+ Excuse me, how can I get to the bus station? 
 
  You can take the bus and get off at the second stop
 
@@ -678,27 +683,29 @@
 
  It's Room 201 on the second floor
 
- Can I use the lift? 我能用电梯吗？
+ Can I use the lift? 
 
  Sorry, it's broken
 
- Where are the stairs? 楼梯在哪里呢？
+ Where are the stairs? 
 
  Go along the corridor and it's on your right side
 
  Thank you for directions
 
- Are you married? 你结婚了吗？
+ Are you married? 
 
  I'm single
 
- You have a younger brother, don't you? 你有个弟弟，是吗？
+ You have a younger brother, don't you? 
 
- How is your family? 你的家人怎么样？
+ How is your family? 
 
- She's engaged/married to John
+ She's engaged to John
 
- How long have you been married? 你们结婚多久了？
+ She'smarried to John
+
+ How long have you been married? 
 
  We've been married for 2 years
 
@@ -714,33 +721,33 @@
 
  John has his own family now
 
- Do you live with your parents? 你和你父母住一起吗？
+ Do you live with your parents? 
 
  No
 
- Do you know Mary? 你认识玛丽吗？
+ Do you know Mary? 
 
  Sure
 
  Really? I was introduced to her just last weekend
 
- What is she doing now? 她现在干些什么呢？
+ What is she doing now? 
 
  She told me she wanted to start a company
 
  Start a company? But I thought she would be a scholar
 
- People are always changing, aren't they? 人总是在变，不是吗？
+ People are always changing, aren't they? 
 
  Yes, you're right
 
  But she doesn't have much experience
 
- You two don't have much contact？ 你们俩没怎么联系吗？
+ You two don't have much contact 
 
  No, I only wrote her one letter this year
 
- And she? 她呢？
+ And she? 
 
  She sent me a Christmas card last year
 
@@ -750,7 +757,7 @@
 
  What time are you going to leave for the airport tomorrow?
 
- Is he coming to dinner? 他回来吃饭吗？
+ Is he coming to dinner? 
 
  I'm going to the bookstore
 
@@ -760,11 +767,11 @@
 
  After I get home, I'll call you
 
- How will you spend the evening? 你晚上干什么？
+ How will you spend the evening? 
 
  I'll probably stay home and watch TV
 
- What's your plan for the summer holiday? 暑假计划干什么？
+ What's your plan for the summer holiday? 
 
  I'm thinking about a visit to Paris
 
@@ -772,23 +779,23 @@
 
  You are still thinking about a Ph
 
- What will you do about it? 你会拿这事怎么办？
+ What will you do about it? 
 
- What do you want to do after graduation? 你毕业后想干什么？
+ What do you want to do after graduation? 
 
  I'll further my study
 
- Have you heard the weather forecast? 你听天气预报了吗？
+ Have you heard the weather forecast? 
 
- No, what does it say? 没有，它说什么了？
+ No, what does it say? 
 
- We'll have fine weather for the next few days? 以后几天天气晴朗。
+ We'll have fine weather for the next few days? 
 
- But it's still raining today! 可今天还在下雨。
+ But it's still raining today! 
 
  It is said it will clear up tonight
 
- What will it be after the clear weather? 晴天以后天气会怎么样？
+ What will it be after the clear weather? 
 
  It says a storm may come next month
 
@@ -808,11 +815,11 @@
 
  I hope the weather there is cold enough
 
- How are you feeling today? 你今天感觉怎么样？
+ How are you feeling today? 
 
  I don't feel very well
 
- Do you fell better now? 你现在觉得好点了吗？
+ Do you fell better now? 
 
  Much better
 
@@ -822,7 +829,7 @@
 
  My fever is gone
 
- What's the matter with you? 你怎么啦？
+ What's the matter with you? 
 
  I've got a pain in my back
 
@@ -832,7 +839,7 @@
 
  It's bleeding
 
- Call the doctor! 快打电话叫医生！
+ Call the doctor! 
 
  Take two pills and have a good rest
 
@@ -866,39 +873,39 @@
 
  We go to bed at 10:30
 
- What do you think about it? 你对此怎么看？
+ What do you think about it? 
 
- Is that right? 那样对吗？
+ Is that right? 
 
  Absolutely right
 
  I think you're mistaken about that
 
- Is that ok? 这样行吗？
+ Is that ok? 
 
- That's ok/fine
+ That's fine
 
  That's excellent
 
  He was absent yesterday
 
- Do you have any idea? 你怎么想？
+ Do you have any idea? 
 
  I suppose he was sick
 
- Will it rain tomorrow? 明天会下雨吗？
+ Will it rain tomorrow? 
 
  No, I don't think so
 
- Do you really want to know what I think? 你真想知道我怎么想吗？
+ Do you really want to know what I think? 
 
  Please give me your advice
 
  I want to hear your opinion
 
- What do you plan to do this Friday? 明天你打算干什么？
+ What do you plan to do this Friday? 
 
- What are you doing next week? 下周你干什么？
+ What are you doing next week? 
 
  I plan to go to the concert
 
@@ -914,17 +921,17 @@
 
  I'm considering buying a house
 
- Hi, Jack, what lessons will you take this semester? 你好，杰克，这学期
+ Hi, Jack, what lessons will you take this semester? 
 
  Hi, Lucy
 
  I'm taking Chinese and History
 
- Do you plan to do some odd jobs? 你打算打工吗？
+ Do you plan to do some odd jobs? 
 
  Yes, I'm applying to work at the library
 
- Good luck! 祝你好运。
+ Good luck! 
 
  It's up to you
 
@@ -938,7 +945,7 @@
 
  I'm determined to leave
 
- Have you decided? 你决定了吗？
+ Have you decided? 
 
  No, I haven't decided yet
 
@@ -956,27 +963,27 @@
 
  Don't shilly-shally
 
- Do you like traveling? 你喜欢旅游吗？
+ Do you like traveling? 
 
  Yes, I've just come back from Scotland
 
- How did you get there? 你怎么去的？
+ How did you get there? 
 
  I got there by plane
 
- Where did you visit? 你去参观了哪些地方？
+ Where did you visit? 
 
  I only had time to visit Edinburgh
 
- How did you like it? 你喜欢那儿吗？
+ How did you like it? 
 
  It's fantastic
 
- Why did you go there? 你为什么去那儿？
+ Why did you go there? 
 
  I went there on business
 
- And do you have friends there? 你在那儿有朋友吗？
+ And do you have friends there? 
 
  Yes, a lot of friends
 
@@ -986,7 +993,7 @@
 
  Please let me see them
 
- Will you go shopping with me? 你跟我去买东西吗？
+ Will you go shopping with me? 
 
  Here's your change
 
@@ -994,43 +1001,43 @@
 
  Excuse me, would you tell me where I can get some butter?
 
- May I have a look at the watch? 我能看看这块表吗？
+ May I have a look at the watch? 
 
- May I try it on? 我能试试吗？
+ May I try it on? 
 
  This is too small for me
 
- Do you have any more colors? 有别的颜色吗？
+ Do you have any more colors? 
 
- What's your size? 你穿多大号？
+ What's your size? 
 
  It suits you to a T
 
  It's too expensive for me
 
- Can you came down a bit? 可以再便宜点吗？
+ Can you came down a bit? 
 
  I'll take it
 
- How much is it? 这卖多少钱？
+ How much is it? 
 
- How much do I owe you? 我该付多少钱？
+ How much do I owe you? 
 
- What would you like to eat? 你想吃点什么？
+ What would you like to eat? 
 
- Are you ready to order? 你要点菜了吗？
+ Are you ready to order? 
 
  I'd like some steak and bread
 
- What would you like for dessert? 你要什么甜点？
+ What would you like for dessert? 
 
  I'll have some ice cream
 
- Do you want some fruit? 你要水果吗？
+ Do you want some fruit? 
 
  Yes, please
 
- Anything to drink? 喝点什么？
+ Anything to drink? 
 
  A small glass of whisky, please
 
@@ -1038,7 +1045,7 @@
 
  Bring me the bill please
 
- Can I pay by check or credit card? 我能用支票或信用卡吗？
+ Can I pay by check or credit card? 
 
  Sorry, we only take cash
 
@@ -1048,31 +1055,31 @@
 
  I'm free tonight
 
- Shall we go to the cinema? 我们去看电影好吗？
+ Shall we go to the cinema? 
 
- Do you know what's on tonight? 你知道今天上演什么？
+ Do you know what's on tonight? 
 
- May I ask you for a dance? 可以请你跳支舞吗？
+ May I ask you for a dance? 
 
  With pleasure
 
  Sorry, I'm engaged
 
- What about another dance? 再跳一曲好吗？
+ What about another dance? 
 
  You're a good dancer
 
- What's on Channel 8 now? 现在8频道播什么节目？
+ What's on Channel 8 now? 8
 
  I don't know
 
  Let's see what else is on
 
- Did you see the special last night? 昨晚你看特别节目了吗？
+ Did you see the special last night? 
 
  I don't want to see any more of this TV show
 
- Can we change the channel? 能换个频道吗？
+ Can we change the channel? 
 
  I want to see the weather
 
@@ -1080,11 +1087,11 @@
 
  She's free on Friday and Saturday
 
- Sorry, can I see her before Friday? 对不起，我能周五之前见她吗？
+ Sorry, can I see her before Friday? 
 
  Let me see
 
- At what time? 什么时间？
+ At what time? 
 
  From 4 to 4:30
 
@@ -1106,27 +1113,27 @@
 
  I have to change my appointment from Monday to Thursday
 
- What's your trouble? 你有什么不舒服？
+ What's your trouble? 
 
- How long have you had it? 你得这病多久了？
+ How long have you had it? 
 
  I should say you've caught a cold
 
  You need an injection
 
- Is it serious? 我的病严重吗？
+ Is it serious? 
 
- Do I need to be hospitalized? 我需要住院吗？
+ Do I need to be hospitalized? 
 
- Have you seen the doctor? 你看过医生了吗？
+ Have you seen the doctor? 
 
- What did the doctor say? 医生怎么说？
+ What did the doctor say? 
 
  Jack is up and about now
 
  The doctor says that I should take quinine
 
- What sort of medicine do you take? 你吃的是什么药？
+ What sort of medicine do you take? 
 
  The doctor says that I should not eat anything oily
 
@@ -1146,7 +1153,7 @@
 
  Yes, please
 
- Would you answer the phone please? 你能接下电话吗？
+ Would you answer the phone please? 
 
  I want to make a long distance call
 
@@ -1160,7 +1167,7 @@
 
  I have to hang up now
 
- Would you call back tomorrow? 你能明天回个电话吗？
+ Would you call back tomorrow? 
 
  There's something wrong with the phone
 
@@ -1192,7 +1199,7 @@
 
  I find my name on the blackboard
 
- Do you want to airmail it or not? 你想发航空信吗？
+ Do you want to airmail it or not? 
 
  I drop the letter into the mailbox in front of the Post Office
 
@@ -1206,11 +1213,11 @@
 
  The Christmas tree is gorgeous
 
- What a boring movie it is! 多么无聊的一场电影啊。
+ What a boring movie it is! 
 
- How can he give us such a tedious lecture! 他怎么能做这么沉闷乏味的演
+ How can he give us such a tedious lecture! 
 
- How fragrant the flowers are! 这些花真香！
+ How fragrant the flowers are! 
 
  The party is making too much noise
 
@@ -1234,7 +1241,7 @@
 
  That house is for sale
 
- What kind of furniture do you like? 你喜欢什么样的家具？
+ What kind of furniture do you like? 
 
  This is a rather old house
 
@@ -1242,7 +1249,7 @@
 
  The houses downtown are very expensive
 
- How much is the rent for a month? 每月租金多少？
+ How much is the rent for a month? 
 
  I feel at home living here
 
@@ -1256,13 +1263,13 @@
 
  The room has a big closet
 
- What will you wear for the party? 晚会上你穿什么？
+ What will you wear for the party? 
 
  I'll wear my blue dress
 
- Don't you think it's too formal? 你不觉得太正式了吗？
+ Don't you think it's too formal? 
 
- Why? What will you wear? 为什么？你会穿什么？
+ Why? What will you wear? 
 
  Just my shirt and jeans
 
@@ -1278,7 +1285,7 @@
 
  I don't like wearing the uniform
 
- Do you want to change before the banquet? 宴会前你想换衣服吗？
+ Do you want to change before the banquet? 
 
  Your shoe lace is loose
 
@@ -1302,11 +1309,11 @@
 
  Please sum up what you said just now
 
- Has anybody else anything to say on this? 关于这点，谁还有什么别的要说
+ Has anybody else anything to say on this? 
 
- Does anybody share David's opinion? 有谁同意大卫的观点吗？
+ Does anybody share David's opinion? 
 
- Is there any evidence to support what you have said? 有什么证据可以支持
+ Is there any evidence to support what you have said? 
 
  Well, it depends
 
@@ -1340,7 +1347,7 @@
 
  I plan to learn photography
 
- What do you say we have a party this weekend? 我们周末开个派对，你觉得
+ What do you say we have a party this weekend? 
 
  She will certainly remain single
 
@@ -1376,17 +1383,17 @@
 
  I had thought about living with my grandparents when my parents went abroad last year
 
- What's your favorite sport? 你最喜欢什么运动？
+ What's your favorite sport? 
 
  I like football best
 
  Football is my favorite
 
- Which do you prefer, fishing or mountain-climbing? 钓鱼和登山，你更喜欢
+ Which do you prefer, fishing or mountain-climbing? 
 
  Neither
 
- What do you like best, apples, pears, or bananas? 苹果，梨，香蕉，你最
+ What do you like best, apples, pears, or bananas? 
 
  He's crazy about Michael Jordan
 
@@ -1396,13 +1403,13 @@
 
  She has good taste in clothes
 
- What do you like to do in your spare time? 空闲时你喜欢干什么？
+ What do you like to do in your spare time? 
 
  I like collecting stamps
 
  I prefer tea to coffee
 
- What do you dislike most about this movie? 这部电影你最不喜欢什么？
+ What do you dislike most about this movie? 
 
  I would rather sleep than watch this movie
 
@@ -1418,7 +1425,7 @@
 
  In my opinion, your new coat is not worth so much money
 
- Would you mind not spitting everywhere? 不要随地吐痰行吗？
+ Would you mind not spitting everywhere? 
 
  It's only a suggestion, you don't have to take it
 
@@ -1432,23 +1439,23 @@
 
  Your work seems not satisfactory
 
- What about your opinion? 你怎么想？
+ What about your opinion? 
 
  I generally agree with you
 
- Would you open the door for me, please? 你能替我开门吗？
+ Would you open the door for me, please? 
 
  With pleasure
 
- Would you mind opening the window? 你介意开窗吗？
+ Would you mind opening the window? 
 
  Not at all
 
- I wondered if you could buy me some pencils? 我不知道你是否能替我买铅笔
+ I wondered if you could buy me some pencils? 
 
  Sure
 
- Would you be so kind as to lend me some money? 你能借我一点儿钱吗？
+ Would you be so kind as to lend me some money? 
 
  No problem
 
@@ -1460,11 +1467,11 @@
 
  I don't want to put you to any trouble
 
- Excuse me, would you give me a hand? 对不起，你能帮我个忙吗？
+ Excuse me, would you give me a hand? 
 
  I'd be glad to help
 
- Would you mind mailing this letter for me? 你能替我寄这封信吗？
+ Would you mind mailing this letter for me? 
 
  I have so many things to do before I leave
 
@@ -1472,7 +1479,7 @@
 
  Traveler's check's are very convenient for long-distance travel
 
- Do you have anything to declare? 你有什么东西要向海关申报的吗？
+ Do you have anything to declare? 
 
  You have to apply for a passport in advance
 
@@ -1480,35 +1487,35 @@
 
  Make it an hour and a half
 
- Shall we ask Betty to join us? 我们应该叫贝蒂一起去吗？
+ Shall we ask Betty to join us? 
 
  I put myself entirely in your hands
 
  Can you tell me the phone number of the inquiry office?
 
- Do you like to take a local train or an express? 你想坐普通车还是特快？
+ Do you like to take a local train or an express? 
 
  I have bought a ticket for a sleeper
 
- Have you reserved your ticket? 你订票了吗？
+ Have you reserved your ticket? 
 
  I would never have thought of it if you hadn't mentioned it
 
  I will see you off at the railway station
 
- Where are you from? 你来自哪儿？
+ Where are you from? 
 
- What's your nationality? 你是什么国籍？
+ What's your nationality? 
 
- What's your motherland? 你祖国是哪儿？
+ What's your motherland? 
 
- Are you a native Chinese? 你是土生土长的中国人吗？
+ Are you a native Chinese? 
 
- What's the population of China? 中国有多少人口？
+ What's the population of China? 
 
- How many provinces do you have? 你们有多少个区？
+ How many provinces do you have? 
 
- What's the capital of your country? 贵国首都是哪儿？
+ What's the capital of your country? 
 
  I come from Japan
 
@@ -1544,15 +1551,15 @@
 
  The scenery is very beautiful in the small islands in the Pacific Oceans
 
- What kind of climate do you have in this country? 这个国家的气候如何？
+ What kind of climate do you have in this country? 
 
  In the west of America, there are many high peeks and deep canyons
 
- Which one is the longest river in China? 中国哪条河流最长？
+ Which one is the longest river in China? 
 
- Do you get much rain in summer? 这里夏天雨水多吗？
+ Do you get much rain in summer? 
 
- Is the plain along the river good for farming? 河畔的平原易于发展农业吗
+ Is the plain along the river good for farming? 
 
  It's cold and foggy in London at this time of the year
 
@@ -1586,11 +1593,11 @@
 
  There are many training classed and night classes
 
- What does your father do? 你父亲做什么工作？
+ What does your father do? 
 
  He is a doctor
 
- Do you have any plan for your career? 你对未来有什么计划吗？
+ Do you have any plan for your career? 
 
  I want to be a pilot of possible
 
@@ -1624,11 +1631,11 @@
 
  He has bought 10 tractors for the village
 
- What's the typical farm product in this region? 这个地区典型的农产品是
+ What's the typical farm product in this region? 
 
  At this time of the year farmers begin to plow their fields
 
- Have you milked the cows? 你已经挤过奶了吗？
+ Have you milked the cows? 
 
  Pile the hay in the corner
 
@@ -1640,29 +1647,29 @@
 
  State-owned enterprises are getting out of difficulty
 
- How many workshops are there in your factory? 你们厂有多少车间？
+ How many workshops are there in your factory? 
 
  The computer industry is booming
 
  The information industry helps boost the global economy
 
- Do you have any hobbies? 你有什么爱好吗？
+ Do you have any hobbies? 
 
- What are you interested in? 你对什么比较感兴趣？
+ What are you interested in? 
 
- What are your interests? 你的爱好是什么？
+ What are your interests? 
 
- What do you do in your spare time? 空闲时间你干什么？
+ What do you do in your spare time? 
 
- How do you spend your evenings? 夜生活你都是怎么过的？
+ How do you spend your evenings? 
 
  Lots of people like stamp collecting
 
  I am a Michael Jordan fan
 
- Does his film appeal to you? 你喜欢他的电影吗？
+ Does his film appeal to you? 
 
- Do you go on picnics? 你常去郊游吗？
+ Do you go on picnics? 
 
  I particularly like English literature
 
@@ -1676,11 +1683,11 @@
 
  Photography is an expensive hobby
 
- What's your favorite sport? 你最喜欢什么活动？
+ What's your favorite sport? 
 
  I like football
 
- What position do you play? 你踢什么位置？
+ What position do you play? 
 
  I'm a catcher
 
@@ -1688,7 +1695,7 @@
 
  We are sure to defeat them
 
- How many years have you been playing pingpong? 你打乒乓球多少年了？
+ How many years have you been playing pingpong? 
 
  My favorite winter sport is skiing
 
@@ -1710,21 +1717,21 @@
 
  Tom reads newspapers in the afternoon
 
- What kind of newspapers do you read? 你读什么样的报纸？
+ What kind of newspapers do you read? 
 
  Newspapers and periodicals keep me updated on current affairs
 
- What column do you like best? 你最喜欢哪个栏目？
+ What column do you like best? 
 
- Which do you like better, the news or the editorial? 新闻和评论你最喜欢
+ Which do you like better, the news or the editorial? 
 
- Do you read advertisements too? 你也看广告吗？
+ Do you read advertisements too? 
 
  I recommend to you Time and Newsweek
 
  Fashion is a very popular magazine in America
 
- What's the circulation of this magazine? 这杂志发行量怎么样？
+ What's the circulation of this magazine? 
 
  Why don't you put an advertisement in the paper to sell that old car?
 
@@ -1736,11 +1743,11 @@
 
  My friend Tom is a reporter for the New York Times
 
- What channel are you watching now? 现在你在看哪个新闻？
+ What channel are you watching now? 
 
  There's TV coverage of the NBA tournament
 
- Do you have a TV guide? 你有电视节目吗？
+ Do you have a TV guide? 
 
  You'll be on air in two minutes
 
@@ -1750,7 +1757,7 @@
 
  We can't get good pictures on our TV set
 
- Can this radio receive short-wave? 这个收音机能收短波吗？
+ Can this radio receive short-wave? 
 
  If you install an outside antenna, you will have better reception
 
@@ -1766,17 +1773,17 @@
 
  There's too much static
 
- What's your favorite music? 你最喜欢什么音乐？
+ What's your favorite music? 
 
- Do you often go to a concert? 你经常去听音乐会吗？
+ Do you often go to a concert? 
 
  I hate Jazz
 
- Do you like pop music? 你喜欢流行音乐吗？
+ Do you like pop music? 
 
- I have never heard the piece before, who wrote it? 我从没听过这首曲子，
+ I have never heard the piece before, who wrote it? 
 
- What do you think of their skill? 你觉得他们演奏技术如何？
+ What do you think of their skill? 
 
  I find classical concerts more to my liking than rock concerts
 
@@ -1790,7 +1797,7 @@
 
  On Sundays I often spend some time reading in the library
 
- What do think about this poem? 你觉得这首诗怎么样？
+ What do think about this poem? 
 
  I like Shakespeare better than Milton
 
