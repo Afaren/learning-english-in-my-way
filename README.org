@@ -9,6 +9,41 @@
 
 执行上面的命令，使用不同语音循环播放九百句简单口语
 
+*** 使用介绍
+
+**** 安装语音
+
+[[file:images/Screen Shot 2018-01-24 at 22.03.39_2018-01-24_22-07-50.png][打开系统配置，查找 speech]]
+[[file:images/Screen Shot 2018-01-24 at 22.04.24_2018-01-24_22-07-50.png][点击 System Voice，打开 Customize]]
+[[file:images/Screen Shot 2018-01-24 at 22.04.56_2018-01-24_22-07-50.png][下载需要的语音]]
+
+**** loop 脚本
+=loop= 脚本，读取 *播音员列表* 跟 *九百句简单口语*，以不同语音迭代播放同一句话，直到播完所有的句子。
+
+**** voicer.name.txt
+记录不同 *播音员列表* 的名字，供 =loop= 脚本使用
+
+#+BEGIN_QUOTE
+Tessa
+Tom
+Veena
+Alex
+Allison
+Daniel
+Karen
+Kate
+Moira
+Samantha
+#+END_QUOTE
+
+**** 900-sentences.txt
+
+训练用的非常简单的日常口语，共 900 句。
+这里是介绍：1. [[https://book.douban.com/subject/1089410/][英语口语 900 句]] 2. [[https://www.zhihu.com/question/20343941/answer/158374562][知乎介绍]]
+
+
+
+** 待完善
 - [ ] 要增加一个功能，听到一句听不懂的话时，能按下某个键使其循环播放，直到再次按下某个键 （toggle？）
 
 
