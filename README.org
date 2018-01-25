@@ -107,6 +107,18 @@ Samantha
 #+END_QUOTE
 
 
+***** 更好的方式
+当然，如果更好一些，应该是想下面这样配置
+
+#+BEGIN_QUOTE
+Tessa, 3
+Alex, 2
+Allison, 4
+Karen 
+#+END_QUOTE
+
+直接将播放次数放在后面，而不是将一个名字写多次，这样更直观
+
 
 **** 900-sentences.txt
 
