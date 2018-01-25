@@ -87,6 +87,27 @@ Moira
 Samantha
 #+END_QUOTE
 
+
+这块非常灵活
+可以通过调节列表内容，控制播放哪些语音，也可以重复一个名字，重复播放多次
+
+***** 重复播放例子
+
+#+BEGIN_QUOTE
+Veena
+Veena
+Veena
+Daniel
+Daniel
+Daniel
+Samantha
+Samantha
+Samantha
+Samantha
+#+END_QUOTE
+
+
+
 **** 900-sentences.txt
 
 训练用的非常简单的日常口语，共 900 句。
