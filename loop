@@ -3,7 +3,7 @@
 voicers=$1
 english_sentences_txt=$2
 
-while read -r sentence || [[ -n "sentence" ]]; do
+while read -r sentence || [[ -n "$sentence" ]]; do
     echo "$sentence"
     while IFS='' read -r voicer; do
         echo "    -> $voicer"
