@@ -228,7 +228,8 @@ cheng luo 的 react 视频也是其中我觉得比较合适的
 - [ ] day 1
   - 21:38 - 22:34 800-900 voicers && Daniel && Moira
 - [ ] day 2 
-  - 09:24 - 09:29 800-900 Samantha 
+  - 09:24 - 09:29 800-900 Samantha
+  - 24:04 - 24:35 800-900 speaking trainging
 - [ ] day 3
 - [ ] day 4
 - [ ] day 5
