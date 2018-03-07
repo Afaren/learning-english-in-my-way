@@ -274,6 +274,7 @@ wiki 对我来说恰好
 - [ ] day 4
   - 21:10 - 21:32 design pattern wiki listening and reading
   - 21:41 - 21:46 800 - 900 Samantha listening
+  - 21:46 - 22:00 design pattern wiki listening and reading
 - [ ] day 5
 - [ ] day 6
 - [ ] day 7
