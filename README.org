@@ -278,7 +278,8 @@ wiki 对我来说恰好
   - 22:05 - 22:10 800 - 900 Samantha listening
   - 22:12 - 22:16 600 - 700 Samantha listening
   - 22:17 - 22:22 600 - 700 Daniel listening
-  - 22:23 - 22:27 300 - 400 Samantha listening
+  - 22:23 - 22:27 300 - 400 Samantha listenin
+  - 22:29 - 22:43 300 - 400 UK listening
 - [ ] day 5
 - [ ] day 6
 - [ ] day 7
