@@ -1,1 +1,2 @@
 But for non-trivial applications, things quickly get confusing and hard to maintain.
+Culture is the social behavior and norms found in human societies.
