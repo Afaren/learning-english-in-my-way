@@ -1,2 +1,3 @@
 But for non-trivial applications, things quickly get confusing and hard to maintain.
 Culture is the social behavior and norms found in human societies.
+Building applications is not a hard thing, but having the vision of the overall architecture really makes a difference. We have to crack the system interview sooner or later in our career as a software engineer or engineering manager.
