@@ -47,7 +47,7 @@
 
 *** 成果
 #+BEGIN_SRC shell
-./loop voicers.name.txt statement-of-900.txt
+./scripts/loop voices/voicers.voicer dojos/900-sentences.txt
 #+END_SRC
 
 执行上面的命令，使用不同语音循环播放九百句简单口语
@@ -68,28 +68,24 @@
 ***** loop 脚本
 使用 ~loop~ 脚本，读取 *播音员列表* 跟 *九百句简单口语* ，以不同语音迭代播放同一句话，直到播完所有的句子。
 
-***** voicer.name.txt
+***** voicers
 记录不同 *播音员列表* 的名字，供 =loop= 脚本使用
 
-#+BEGIN_QUOTE
-Tessa
-Tom
-Veena
-Alex
-Allison
-Daniel
-Karen
-Kate
-Moira
-Samantha
-#+END_QUOTE
-
-
-这块非常灵活
-可以通过调节列表内容，控制播放哪些语音，也可以重复一个名字，重复播放多次
+#+BEGIN_SRC shell
+voices
+├── Daniel.voicer
+├── Moira.voicer
+├── Samantha.voicer
+├── others.voicer
+├── uk.voicer
+├── us.voicer
+├── veena.voicer
+└── voicers.voicer
+#+END_SRC
 
 ****** 重复播放例子
 
+在 voicer 文件中重复 voicer 的名字即可，示例如下：
 #+BEGIN_QUOTE
 Veena
 Veena
@@ -102,19 +98,6 @@ Samantha
 Samantha
 Samantha
 #+END_QUOTE
-
-
-****** 更好的方式
-当然，如果更好一些，应该是想下面这样配置
-
-#+BEGIN_QUOTE
-Tessa, 3
-Alex, 2
-Allison, 4
-Karen 
-#+END_QUOTE
-
-直接将播放次数放在后面，而不是将一个名字写多次，这样更直观
 
 
 ***** 900-sentences.txt
@@ -125,26 +108,7 @@ Karen
 
 
 ** 待完善
-- [ ] 要增加一个功能，听到一句听不懂的话时，能按下某个键使其循环播放，直到再次按下某个键 （toggle？）
-  - [ ] 标记听不懂的这句话，将其记录到另一个文件中。查了一下，shell 实现过于复杂，可能会使用 python 来做
-
-
-在这里找到了可用的代码  https://stackoverflow.com/a/41083602
-
-写多线程代码的时候，总是将文件名起成跟导入的模块一样的名字，结果就出错，我觉得 python 这一点还真的很不好，或者说我不习惯?
-
-
-
-想到说，如果要练习复杂句子的听力，可以考虑使用李笑来推荐的那本什么书(据说是已经不出版了的)来做听力的材料。
-当然，要从简单的角度出发，越简单越好。这里所说的简单，是指素材的获取手段简单。最好是有现成的 txt 文档，可以直接筛选阅读
-
-
-
 想到 CTRL + Z 能使程序休眠，fg 使程序重新启动
-
-
-算了一下，以平均每个句子 3 秒算，900 * 3 * 10 / 3600 = 7.5，听完一遍大概要花七个半小时，是不是太多了？沉浸式学习？
-
 
 ** 闪念
 不同的听力材料，难度不一样
