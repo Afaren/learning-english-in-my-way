@@ -1,2 +1,0 @@
-Many people have posted a solution that's over-optimized. I don't think it is incorrect, but I humbly think that a less optimized solution will be desirable to permit everyone to easily understand how is this working. Here is my proposal:
-
