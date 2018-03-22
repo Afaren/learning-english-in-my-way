@@ -265,50 +265,12 @@ wiki 对我来说恰好
 
 
 ** TODO 20 天计划
-从今天开始计算，到 3.24 我去参加 TWU 的那天刚好就是二十天，那就搞一个 20 天计划吧。
-每天练习一个小时口语，就读 900 句的句子，一边听一边读。
+做着做着忘了更新状态，基本上每天都是听听 900 句，或者看 youtube 上的英语教学视频、总统演讲辩论、其他辩论，或者阿兰德波顿 的 ted 演讲
+现在听奥巴马的语音也不会觉得完全听不懂了，之前是完全懵，完全不能听明白的感觉，现在能听清楚了，只是理解速度还跟不上
 
-- [X] day 1
-  - 21:38 - 22:34 800-900 voicers && Daniel && Moira
-- [X] day 2 
-  - 09:24 - 09:29 800-900 Samantha
-  - 24:04 - 24:35 800-900 speaking training
-- [X] day 3 
-  - 08:25 - 08:48 speaking training
-  - 08:49 - 08:54 listening
-  - 21:55 - 22:00 listening Daniel 
-  - 22:04 - 22:09 listening Moira
-  - 22:11 - 22:18 listening voicers
-  - 22:20 - 22:57 TED
-- [X] day 4
-  - 21:10 - 21:32 design pattern wiki listening and reading
-  - 21:41 - 21:46 800 - 900 Samantha listening
-  - 21:46 - 22:00 design pattern wiki listening and reading
-  - 22:05 - 22:10 800 - 900 Samantha listening
-  - 22:12 - 22:16 600 - 700 Samantha listening
-  - 22:17 - 22:22 600 - 700 Daniel listening
-  - 22:23 - 22:27 300 - 400 Samantha listenin
-  - 22:29 - 22:43 300 - 400 UK listening
-- [ ] day 5
-  - 09:15 - 09:29 300 - 400 UK listening
-  - 11:43 -  300 - 400 US listening
-- [ ] day 6
-- [ ] day 7
-  - Learning English with The Future American President - The First Debate
-- [ ] day 8
-  - Learning English with The Future American President - The First Debate
-- [ ] day 9
-  - voicers 900
-- [ ] day 10
-  - 阿兰德波顿
-  - 900 句
-- [ ] day 11
-- [ ] day 12
-- [ ] day 13
-- [ ] day 14
-- [ ] day 15
-- [ ] day 16
-- [ ] day 17
-- [ ] day 18
-- [ ] day 19
-- [ ] day 20
+*** 总结
+1. 什么语音听不懂，就找什么语音听，比如之前听不懂奥巴马的口音，就特意找他的视频照着字幕听
+2. 同一句话，用多种不同的语音听，会提高理解
+
+
+
