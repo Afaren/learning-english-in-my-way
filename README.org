@@ -47,7 +47,7 @@
 
 *** 成果
 #+BEGIN_SRC shell
-./scripts/loop voices/voicers.voicer dojos/900-sentences.txt
+./scripts/loop voices/all dojos/900-sentences.txt
 #+END_SRC
 
 执行上面的命令，使用不同语音循环播放九百句简单口语
@@ -73,14 +73,14 @@
 
 #+BEGIN_SRC shell
 voices
-├── Daniel.voicer
-├── Moira.voicer
-├── Samantha.voicer
-├── others.voicer
-├── uk.voicer
-├── us.voicer
-├── veena.voicer
-└── voicers.voicer
+├── Daniel
+├── Moira
+├── Samantha
+├── all
+├── others
+├── uk
+├── us
+└── veena
 #+END_SRC
 
 ****** 重复播放例子
